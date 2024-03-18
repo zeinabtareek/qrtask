@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488481524068",
+    "firebase_url": "https://mamatender-cf27f-default-rtdb.firebaseio.com",
+    "project_id": "mamatender-cf27f",
+    "storage_bucket": "mamatender-cf27f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488481524068:android:9dc1ca83a31b2d566e1271",
+        "android_client_info": {
+          "package_name": "com.example.qrtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488481524068-b3ge051143n4s1srke42qei04899n3ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWsCsgv6QH65WV667KG9cH8WR0ZU0cZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488481524068-b3ge051143n4s1srke42qei04899n3ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
